@@ -11,13 +11,12 @@
 
     <ImageView
         android:id="@+id/guruji"
-        android:layout_width="177dp"
-        android:layout_height="109dp"
-        android:layout_marginTop="60dp"
+        android:layout_width="174dp"
+        android:layout_height="113dp"
+        android:layout_marginTop="92dp"
         android:src="@drawable/ic_guruji"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintMarginStart="99dp"
-        app:layout_constraintMarginTop="131dp"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
